@@ -19,18 +19,12 @@ Before I get into the details, let me emphasize: we are not changing the certifi
 *A brief history of the curriculum*
 
 OK - Version 7.0! Here’s a history of our curriculum versions to give you some more context:
-
-*V1 - 2014: I launched freeCodeCamp with a simple list of 15 resources, including Harvard’s CS50 and Stanford’s Database Class.
-
-*V2 - 2015: We added interactive algorithm challenges.
-
-*V3 - 2015: We added our own HTML+CSS challenges (before we’d been relying on General Assembly’s Dash course for these).
-
-*V4 - 2016: We expanded the curriculum to 3 certifications, including Front End, Back End, and Data Visualization. They each had 10 required projects, but only the Front End section had its own challenges. For the other certs, we were still using external resources like Node School.
-
-*V5 - 2017: We added the back end and data visualization challenges.
-
-*V6 - 2018: We launched 6 new certifications to replace our old ones. This was the biggest curriculum improvement to date.
+ * V1 - 2014: I launched freeCodeCamp with a simple list of 15 resources, including Harvard’s CS50 and Stanford’s Database Class.
+* V2 - 2015: We added interactive algorithm challenges.
+* V3 - 2015: We added our own HTML+CSS challenges (before we’d been relying on General Assembly’s Dash course for these).
+* V4 - 2016: We expanded the curriculum to 3 certifications, including Front End, Back End, and Data Visualization. They each had 10 required projects, but only the Front End section had its own challenges. For the other certs, we were still using external resources like Node School.
+* V5 - 2017: We added the back end and data visualization challenges.
+* V6 - 2018: We launched 6 new certifications to replace our old ones. This was the biggest curriculum improvement to date.
 
 ### Why we need a Version 7.0
 Throughout freeCodeCamp’s history, I’ve heard the same two requests almost every day:
@@ -108,7 +102,7 @@ Learn CSS Grid by Building a Magazine
 **Required Project: Build a Personal Portfolio Webpage**
 
 
-Learn Algorithms and Data Structures\
+Learn Algorithms and Data Structures
 
 Learn Basic JavaScript by Building a Role Playing Game
 
@@ -124,6 +118,7 @@ Learn Algorithms by Building a Search Engine
 
 Learn Functional Programming by Building a Spreadsheet
 
+
 **Required Project: Palindrome Checker**
 
 **Required Project: Roman Numeral Converter**
@@ -133,6 +128,7 @@ Learn Functional Programming by Building a Spreadsheet
 **Required Project: Telephone Number Validator**
 
 **Required Project: Cash Register**
+
 
 Learn Front End Libraries
 
@@ -173,28 +169,28 @@ Learn D3 by Building a Map of Earth
 
 **Required Project: Visualize Data with a Treemap Diagram**
 
-Learn APIs and Microservices\
-Learn npm by Building an npm Module
-Learn Node.js by Building a Web Server
-Learn Express.js by Building an Stock Trading Platform
-Learn RESTful APIs by Building a Weather Service
-Learn MongoDB by Building a Movie Review Database
-Required Project: Metric-Imperial Converter
-Required Project: Issue Tracker
-Required Project: Personal Library
-Required Project: Stock Price Checker
-Required Project: Anonymous Message Board
-Learn Information Security and Quality Assurance
-Learn Information Security by Building a Credit Card Form
-Learn Cryptography by Building a Password Hasher
-Learn Testing by Building a Fact Checker
-Learn Authentication by Building a Signup Page
-Learn Websockets by Building a Chat Room
-Required Project: Metric-Imperial Converter
-Required Project: Issue Tracker
-Required Project: Personal Library
-Required Project: Stock Price Checker
-Required Project: Anonymous Message Board
+Learn APIs and Microservices \
+Learn npm by Building an npm Module \
+Learn Node.js by Building a Web Server \
+Learn Express.js by Building an Stock Trading Platform \
+Learn RESTful APIs by Building a Weather Service \
+Learn MongoDB by Building a Movie Review Database \
+Required Project: Metric-Imperial Converter \
+Required Project: Issue Tracker \
+Required Project: Personal Library \
+Required Project: Stock Price Checker \
+Required Project: Anonymous Message Board \
+Learn Information Security and Quality Assurance \
+Learn Information Security by Building a Credit Card Form \
+Learn Cryptography by Building a Password Hasher \
+Learn Testing by Building a Fact Checker \
+Learn Authentication by Building a Signup Page \
+Learn Websockets by Building a Chat Room \
+Required Project: Metric-Imperial Converter \
+Required Project: Issue Tracker \
+Required Project: Personal Library \
+Required Project: Stock Price Checker \
+Required Project: Anonymous Message Board \
 
 # How You Can Help Us Build This
 We’ve already started designing these projects.   For example, here’s what we the “Learn Basic JavaScript by Building a Role Playing Game” project looks like:
