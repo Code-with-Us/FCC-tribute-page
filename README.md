@@ -97,15 +97,15 @@ Learn CSS Flexbox by Building a Photo Gallery
 
 Learn CSS Grid by Building a Magazine
 
-**Required Project: Build a Tribute Page
+**Required Project: Build a Tribute Page**
 
-**Required Project: Build a Survey Form
+**Required Project: Build a Survey Form**
 
-**Required Project: Build a Product Landing Page
+**Required Project: Build a Product Landing Page**
 
-**Required Project: Build a Technical Documentation Page
+**Required Project: Build a Technical Documentation Page**
 
-**Required Project: Build a Personal Portfolio Webpage
+**Required Project: Build a Personal Portfolio Webpage**
 
 Learn Algorithms and Data Structures
 
@@ -123,15 +123,15 @@ Learn Algorithms by Building a Search Engine
 
 Learn Functional Programming by Building a Spreadsheet
 
-**Required Project: Palindrome Checker
+**Required Project: Palindrome Checker**
 
-**Required Project: Roman Numeral Converter
+**Required Project: Roman Numeral Converter**
 
-**Required Project: Caesars Cipher
+**Required Project: Caesars Cipher**
 
-**Required Project: Telephone Number Validator
+**Required Project: Telephone Number Validator**
 
-**Required Project: Cash Register
+**Required Project: Cash Register**
 
 Learn Front End Libraries
 
@@ -141,18 +141,18 @@ Learn Redux by Building Tetris
 
 Learn TypeScript by Building a Poker Game
 
-**Required Project: Build a Random Quote Machine
+**Required Project: Build a Random Quote Machine**
 
-**Required Project: Build a Markdown Previewer
+**Required Project: Build a Markdown Previewer**
 
-**Required Project: Build a Drum Machine
+**Required Project: Build a Drum Machine**
 
-**Required Project: Build a JavaScript Calculator
+**Required Project: Build a JavaScript Calculator**
 
-**Required Project: Build a Pomodoro Clock
+**Required Project: Build a Pomodoro Clock**
 
-## Learn Data Visualization\
-Learn CSV by Building a Mailing List
+Learn Data Visualization\
+<br>Learn CSV by Building a Mailing List</br>
 Learn JSON by Building a Sports League
 Learn XML by Building an RSS Feed
 Learn AJAX by Building a View Counter
@@ -160,15 +160,15 @@ Lean Data Visualization by Building a Dashboard
 Learn SVG by Building a Solar System
 Learn D3 by Building a Map of Earth
 
-**Required Project: Visualize Data with a Bar Chart
+**Required Project: Visualize Data with a Bar Chart**
 
-**Required Project: Visualize Data with a Scatterplot Graph
+**Required Project: Visualize Data with a Scatterplot Graph**
 
-**Required Project: Visualize Data with a Heat Map
+**Required Project: Visualize Data with a Heat Map**
 
-**Required Project: Visualize Data with a Choropleth Map
+**Required Project: Visualize Data with a Choropleth Map**
 
-**Required Project: Visualize Data with a Treemap Diagram
+**Required Project: Visualize Data with a Treemap Diagram**
 
 Learn APIs and Microservices\
 Learn npm by Building an npm Module\
@@ -193,7 +193,7 @@ Required Project: Personal Library
 Required Project: Stock Price Checker
 Required Project: Anonymous Message Board
 
-# How You Can Help Us Build This
+# How You Can Help Us Build This<br>
 We’ve already started designing these projects.   For example, here’s what we the “Learn Basic JavaScript by Building a Role Playing Game” project looks like:
 
 
