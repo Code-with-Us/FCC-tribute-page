@@ -10,13 +10,14 @@ Here is all the information for the new site
 ## Help us build Version 7.0 of the freeCodeCamp curriculum Contributors
 
  
-***QuincyLarson
+# QuincyLarson
 
-Hey freeCodeCamp contributors - soon the freeCodeCamp curriculum will be 100% project-driven learning. Instead of a series of coding challenges, you’ll learn through building projects - step by step.
+**Hey freeCodeCamp contributors** - soon the freeCodeCamp curriculum will be 100% project-driven learning. Instead of a series of coding challenges, you’ll learn through building projects - step by step.
 
 Before I get into the details, let me emphasize: we are not changing the certifications. All 6 certifications will still have the same 5 required projects. We are only changing the optional coding challenges.
 
-A brief history of the curriculum
+*A brief history of the curriculum*
+
 OK - Version 7.0! Here’s a history of our curriculum versions to give you some more context:
 
 *V1 - 2014: I launched freeCodeCamp with a simple list of 15 resources, including Harvard’s CS50 and Stanford’s Database Class.
@@ -31,7 +32,7 @@ OK - Version 7.0! Here’s a history of our curriculum versions to give you some
 
 *V6 - 2018: We launched 6 new certifications to replace our old ones. This was the biggest curriculum improvement to date.
 
-**Why we need a Version 7.0**
+### Why we need a Version 7.0
 Throughout freeCodeCamp’s history, I’ve heard the same two requests almost every day:
 
 Please smooth out the difficulty of freeCodeCamp’s curriculum. It holds your hand for the challenges, then abruptly stops holding your hand during the projects.
@@ -52,7 +53,7 @@ There is no transition between lessons and projects, because the lessons themsel
 
 And there’s plenty of repetition to help you retain everything because - hey - building projects in real life has plenty of repetition.
 
-New and improved tests
+New and improved tests\
 The main design challenge is taking what is currently paragraphs of explanation and instructions and packing them into a single test description text.
 
 Old test description text: Your h1 element should have the text “Hello World”.
