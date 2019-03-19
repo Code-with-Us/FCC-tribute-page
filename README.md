@@ -7,7 +7,7 @@ We will be working on the new FCC site, and assist with finding bugs in their ne
 Here is all the information for the new site 
 [Free Code Camp Rocks](https://www.freecodecamp.rocks/)
 
-**Help us build Version 7.0 of the freeCodeCamp curriculum Contributors
+## Help us build Version 7.0 of the freeCodeCamp curriculum Contributors
 
  
 ***QuincyLarson
@@ -70,49 +70,87 @@ Each topic will be taught through building a project. Each section within each c
 
 For example, the original HTML curriculum becomes: “Learn HTML by building a cat photo app.”
 
-To this end, I’ve modified our curriculum to make each section project-oriented.
+**To this end, I’ve modified our curriculum to make each section project-oriented.
 
 ***I hope these rough ideas help you visualize what our curriculum could be like.***
 
 Learn Responsive Web Design
+
 Learn HTML by Building a Cat Photo App
+
 Learn CSS by Building a Picasso Painting
+
 Learn the CSS Box Model by Building a Rothko Painting
+
 Learn CSS Variables by Building a City Skyline
+
 Learn CSS Animations by Building a Ferris Wheel
+
 Learn Typography by Building a Nutrition Label
+
 Learn Accessibility by Building a Website for Blind People
+
 Learn Responsive Web Design by Building a Piano
+
 Learn CSS Flexbox by Building a Photo Gallery
+
 Learn CSS Grid by Building a Magazine
-Required Project: Build a Tribute Page
-Required Project: Build a Survey Form
-Required Project: Build a Product Landing Page
-Required Project: Build a Technical Documentation Page
-Required Project: Build a Personal Portfolio Webpage
+
+**Required Project: Build a Tribute Page
+
+**Required Project: Build a Survey Form
+
+**Required Project: Build a Product Landing Page
+
+**Required Project: Build a Technical Documentation Page
+
+**Required Project: Build a Personal Portfolio Webpage
+
 Learn Algorithms and Data Structures
+
 Learn Basic JavaScript by Building a Role Playing Game
+
 Learn Intermediate JavaScript by Building a Fitness Tracker
+
 Learn Regular Expressions by Building a Spam Filter
+
 Learn Debugging by building an Earthquake Warning System
+
 Learn Data Structures by Building a Shopping Cart
+
 Learn Algorithms by Building a Search Engine
+
 Learn Functional Programming by Building a Spreadsheet
-Required Project: Palindrome Checker
-Required Project: Roman Numeral Converter
-Required Project: Caesars Cipher
-Required Project: Telephone Number Validator
-Required Project: Cash Register
+
+**Required Project: Palindrome Checker
+
+**Required Project: Roman Numeral Converter
+
+**Required Project: Caesars Cipher
+
+**Required Project: Telephone Number Validator
+
+**Required Project: Cash Register
+
 Learn Front End Libraries
+
 Learn React by Building Flappy Bird
+
 Learn Redux by Building Tetris
+
 Learn TypeScript by Building a Poker Game
-Required Project: Build a Random Quote Machine
-Required Project: Build a Markdown Previewer
-Required Project: Build a Drum Machine
-Required Project: Build a JavaScript Calculator
-Required Project: Build a Pomodoro Clock
-Learn Data Visualization
+
+**Required Project: Build a Random Quote Machine
+
+**Required Project: Build a Markdown Previewer
+
+**Required Project: Build a Drum Machine
+
+**Required Project: Build a JavaScript Calculator
+
+**Required Project: Build a Pomodoro Clock
+
+Learn Data Visualization\
 Learn CSV by Building a Mailing List
 Learn JSON by Building a Sports League
 Learn XML by Building an RSS Feed
@@ -120,13 +158,19 @@ Learn AJAX by Building a View Counter
 Lean Data Visualization by Building a Dashboard
 Learn SVG by Building a Solar System
 Learn D3 by Building a Map of Earth
-Required Project: Visualize Data with a Bar Chart
-Required Project: Visualize Data with a Scatterplot Graph
-Required Project: Visualize Data with a Heat Map
-Required Project: Visualize Data with a Choropleth Map
-Required Project: Visualize Data with a Treemap Diagram
-Learn APIs and Microservices
-Learn npm by Building an npm Module
+
+**Required Project: Visualize Data with a Bar Chart
+
+**Required Project: Visualize Data with a Scatterplot Graph
+
+**Required Project: Visualize Data with a Heat Map
+
+**Required Project: Visualize Data with a Choropleth Map
+
+**Required Project: Visualize Data with a Treemap Diagram
+
+Learn APIs and Microservices\
+Learn npm by Building an npm Module\
 Learn Node.js by Building a Web Server
 Learn Express.js by Building an Stock Trading Platform
 Learn RESTful APIs by Building a Weather Service
