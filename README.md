@@ -107,7 +107,8 @@ Learn CSS Grid by Building a Magazine
 
 **Required Project: Build a Personal Portfolio Webpage**
 
-Learn Algorithms and Data Structures
+
+Learn Algorithms and Data Structures\
 
 Learn Basic JavaScript by Building a Role Playing Game
 
@@ -141,6 +142,7 @@ Learn Redux by Building Tetris
 
 Learn TypeScript by Building a Poker Game
 
+
 **Required Project: Build a Random Quote Machine**
 
 **Required Project: Build a Markdown Previewer**
@@ -160,6 +162,7 @@ Lean Data Visualization by Building a Dashboard
 Learn SVG by Building a Solar System
 Learn D3 by Building a Map of Earth
 
+
 **Required Project: Visualize Data with a Bar Chart**
 
 **Required Project: Visualize Data with a Scatterplot Graph**
@@ -171,7 +174,7 @@ Learn D3 by Building a Map of Earth
 **Required Project: Visualize Data with a Treemap Diagram**
 
 Learn APIs and Microservices\
-Learn npm by Building an npm Module\
+Learn npm by Building an npm Module
 Learn Node.js by Building a Web Server
 Learn Express.js by Building an Stock Trading Platform
 Learn RESTful APIs by Building a Weather Service
@@ -193,7 +196,7 @@ Required Project: Personal Library
 Required Project: Stock Price Checker
 Required Project: Anonymous Message Board
 
-# How You Can Help Us Build This<br>
+# How You Can Help Us Build This
 We’ve already started designing these projects.   For example, here’s what we the “Learn Basic JavaScript by Building a Role Playing Game” project looks like:
 
 
