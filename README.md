@@ -20,11 +20,17 @@ A brief history of the curriculum
 OK - Version 7.0! Here’s a history of our curriculum versions to give you some more context:
 
 *V1 - 2014: I launched freeCodeCamp with a simple list of 15 resources, including Harvard’s CS50 and Stanford’s Database Class.
+
 *V2 - 2015: We added interactive algorithm challenges.
+
 *V3 - 2015: We added our own HTML+CSS challenges (before we’d been relying on General Assembly’s Dash course for these).
+
 *V4 - 2016: We expanded the curriculum to 3 certifications, including Front End, Back End, and Data Visualization. They each had 10 required projects, but only the Front End section had its own challenges. For the other certs, we were still using external resources like Node School.
+
 *V5 - 2017: We added the back end and data visualization challenges.
+
 *V6 - 2018: We launched 6 new certifications to replace our old ones. This was the biggest curriculum improvement to date.
+
 **Why we need a Version 7.0**
 Throughout freeCodeCamp’s history, I’ve heard the same two requests almost every day:
 
@@ -34,7 +40,7 @@ Please add more repetition to the curriculum so people can better-retain what th
 
 Well, after years - years - of pondering these two problems and how to solve them, I slipped, hit my head on the sink, and when I came to I had a revelation! A vision! A picture in my head! A picture of this! This is what makes time travel possible: the flux capacitor!
 
-:face_with_hand_over_mouth: It wasn’t as dramatic as Doc’s revelation in Back to the Future. It just occurred to me while I was going for a run. The revelation: the entire curriculum should be a series of projects.
+It wasn’t as dramatic as Doc’s revelation in Back to the Future. It just occurred to me while I was going for a run. The revelation: the entire curriculum should be a series of projects.
 
 Instead of individual coding challenges, we’ll just have projects, each with their own seamless series of tests. Each test gives you just enough information to figure out how to get it to pass. (And you can view hints if that isn’t enough.)
 
@@ -57,7 +63,7 @@ Each project will involve dozens of tests like this. People will be coding the e
 
 Instead of a series of coding challenges, people will be in their code editor passing one test after another, quickly building up a project. People will get into a real flow state, similar to what they experience when they build the required projects at the end of each certification. They’ll get that sense of forward progress right from the beginning. And freeCodeCamp will be a much smoother experience.
 
-skitch (2).png2824×846 453 KB
+
 A screenshot of the Testable Projects people build to earn certifications.
 An Overview of the Version 7.0 Curriculum
 Each topic will be taught through building a project. Each section within each certification will have a name that follows this pattern: “Learn _______ by building a _______.”
@@ -144,7 +150,7 @@ Required Project: Anonymous Message Board
 How You Can Help Us Build This
 We’ve already started designing these projects. For example, here’s what we the “Learn Basic JavaScript by Building a Role Playing Game” project looks like:
 
-rpgrpg.jpg1356×540 114 KB
+
 Here’s @beaucarnes’s CodePen implementation if you’re curious: https://codepen.io/beaucarnes/pen/BbLWpe 51
 
 People will learn JavaScript by building up this game one test at a time.
@@ -153,6 +159,7 @@ Here’s what the tests for the “Learn HTML by Building a Cat Photo App” cur
 
 github.com/freeCodeCamp/freeCodeCamp 4
  beaucarnes
+ 
 feat: Updated HTML curriculum - draft
 by beaucarnes on 10:38PM - 01 Mar 19 UTC
 1 commits changed 58 files with 1698 additions and 0 deletions.
@@ -173,5 +180,7 @@ If you’re serious about contributing, here’s what I recommend you do:
 
 Leave a comment below, introducing yourself and sharing your thoughts on all this
 Join the freeCodeCamp Contributor Chatroom if you haven’t already: https://gitter.im/freecodecamp/contributors 30
+
 Comment on the GitHub issues of the projects you are interested in helping with. Even the most general of ideas or prototypes will help us kick off this process. The issues for these are all located on our Curriculum Expansion repository: https://github.com/freeCodeCamp/CurriculumExpansion/issues 36
+
 With your help, the millions of people who are learning to code through freeCodeCamp will have an even better resource to help them learn these fundamentals, and gain the confidence to build more ambitious projects.
