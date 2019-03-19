@@ -66,7 +66,7 @@ Each topic will be taught through building a project. Each section within each c
 
 For example, the original HTML curriculum becomes: “Learn HTML by building a cat photo app.”
 
-**To this end, I’ve modified our curriculum to make each section project-oriented.
+**To this end, I’ve modified our curriculum to make each section project-oriented.**
 
 ***I hope these rough ideas help you visualize what our curriculum could be like.***
 
