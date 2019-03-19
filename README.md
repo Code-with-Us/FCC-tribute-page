@@ -151,7 +151,7 @@ Learn TypeScript by Building a Poker Game
 
 **Required Project: Build a Pomodoro Clock
 
-Learn Data Visualization\
+## Learn Data Visualization\
 Learn CSV by Building a Mailing List
 Learn JSON by Building a Sports League
 Learn XML by Building an RSS Feed
@@ -192,8 +192,9 @@ Required Project: Issue Tracker
 Required Project: Personal Library
 Required Project: Stock Price Checker
 Required Project: Anonymous Message Board
-How You Can Help Us Build This
-We’ve already started designing these projects. For example, here’s what we the “Learn Basic JavaScript by Building a Role Playing Game” project looks like:
+
+# How You Can Help Us Build This
+We’ve already started designing these projects.   For example, here’s what we the “Learn Basic JavaScript by Building a Role Playing Game” project looks like:
 
 
 Here’s @beaucarnes’s CodePen implementation if you’re curious: https://codepen.io/beaucarnes/pen/BbLWpe 51
@@ -210,18 +211,20 @@ by beaucarnes on 10:38PM - 01 Mar 19 UTC
 1 commits changed 58 files with 1698 additions and 0 deletions.
 It will take several months to build all these projects, their associated tests, and to QA everything. Our plan is to roll these new projects out to the curriculum as we finish them.
 
-And that’s where you, kind person who has read this far, come in.
+And that’s where you, kind person who have read this far, come in.
 
-The last time we updated the curriculum, we had dozens of amazing contributors who helped with the process. And we are optimistic that together, we can build these projects even more quickly.
+The last time we updated the curriculum, we had dozens of amazing contributors who helped with the process, 
+and we are optimistic that together, we can build these projects even more quickly.
 
-We need help with the following:
+# We need help with the following:
 
-Building the initial projects
-Taking these projects and working backward, disassembling them into a series of dozens (hundreds?) of concise test descriptions
-Once we have the test descriptions, we need to implement the tests themselves
-I’ve created a GitHub Project we can all use to track the overall progress of Version 7.0 of the curriculum here: https://github.com/orgs/freeCodeCamp/projects/10 77
+1. Building the initial projects
+2. Taking these projects and working backward, disassembling them into a series of dozens (hundreds?) of concise test descriptions
+3. Once we have the test descriptions, we need to implement the tests themselves
 
-If you’re serious about contributing, here’s what I recommend you do:
+***I’ve created a GitHub Project we can all use to track the overall progress of Version 7.0 of the curriculum here: https://github.com/orgs/freeCodeCamp/projects/10 77***
+
+# If you’re serious about contributing, here’s what I recommend you do:
 
 Leave a comment below, introducing yourself and sharing your thoughts on all this
 Join the freeCodeCamp Contributor Chatroom if you haven’t already: https://gitter.im/freecodecamp/contributors 30
