@@ -52,7 +52,8 @@ The main design challenge is taking what is currently paragraphs of explanation 
 
 Old test description text: Your h1 element should have the text “Hello World”.
 
-New test description text: HTML elements have opening tags like <h1> and closing tags like </h1>. Find the h1 element and change the text between its opening and closing tags to say “Hello World”.
+New test description text: HTML elements have opening tags like (<h1> and closing tags like </h1>). \
+Find the h1 element and change the text between its opening and closing tags to say “Hello World”.
 
 Each project will involve dozens of tests like this. People will be coding the entire time, rather than switching back and forth from “reading mode” to “coding mode”.
 
@@ -69,104 +70,68 @@ For example, the original HTML curriculum becomes: “Learn HTML by building a c
 
 ***I hope these rough ideas help you visualize what our curriculum could be like.***
 
-Learn Responsive Web Design
-
-Learn HTML by Building a Cat Photo App
-
-Learn CSS by Building a Picasso Painting
-
-Learn the CSS Box Model by Building a Rothko Painting
-
-Learn CSS Variables by Building a City Skyline
-
-Learn CSS Animations by Building a Ferris Wheel
-
-Learn Typography by Building a Nutrition Label
-
-Learn Accessibility by Building a Website for Blind People
-
-Learn Responsive Web Design by Building a Piano
-
-Learn CSS Flexbox by Building a Photo Gallery
-
+Learn Responsive Web Design \
+Learn HTML by Building a Cat Photo App \
+Learn CSS by Building a Picasso Painting \
+Learn the CSS Box Model by Building a Rothko Painting \
+Learn CSS Variables by Building a City Skyline \
+Learn CSS Animations by Building a Ferris Wheel \
+Learn Typography by Building a Nutrition Label \
+Learn Accessibility by Building a Website for Blind People \
+Learn Responsive Web Design by Building a Piano \
+Learn CSS Flexbox by Building a Photo Gallery \
 Learn CSS Grid by Building a Magazine
 
+
 **Required Project: Build a Tribute Page**
-
 **Required Project: Build a Survey Form**
-
 **Required Project: Build a Product Landing Page**
-
 **Required Project: Build a Technical Documentation Page**
-
 **Required Project: Build a Personal Portfolio Webpage**
 
 
-Learn Algorithms and Data Structures
-
-Learn Basic JavaScript by Building a Role Playing Game
-
-Learn Intermediate JavaScript by Building a Fitness Tracker
-
-Learn Regular Expressions by Building a Spam Filter
-
-Learn Debugging by building an Earthquake Warning System
-
-Learn Data Structures by Building a Shopping Cart
-
-Learn Algorithms by Building a Search Engine
-
+Learn Algorithms and Data Structures \
+Learn Basic JavaScript by Building a Role Playing Game \
+Learn Intermediate JavaScript by Building a Fitness Tracker \
+Learn Regular Expressions by Building a Spam Filter \
+Learn Debugging by building an Earthquake Warning System \
+Learn Data Structures by Building a Shopping Cart \
+Learn Algorithms by Building a Search Engine \
 Learn Functional Programming by Building a Spreadsheet
 
 
 **Required Project: Palindrome Checker**
-
 **Required Project: Roman Numeral Converter**
-
 **Required Project: Caesars Cipher**
-
 **Required Project: Telephone Number Validator**
-
 **Required Project: Cash Register**
 
 
-Learn Front End Libraries
-
-Learn React by Building Flappy Bird
-
-Learn Redux by Building Tetris
-
-Learn TypeScript by Building a Poker Game
-
+Learn Front End Libraries \
+Learn React by Building Flappy Bird \
+Learn Redux by Building Tetris \
+Learn TypeScript by Building a Poker Game 
 
 **Required Project: Build a Random Quote Machine**
-
 **Required Project: Build a Markdown Previewer**
-
 **Required Project: Build a Drum Machine**
-
 **Required Project: Build a JavaScript Calculator**
-
 **Required Project: Build a Pomodoro Clock**
 
-Learn Data Visualization\
-<br>Learn CSV by Building a Mailing List</br>
-Learn JSON by Building a Sports League
-Learn XML by Building an RSS Feed
-Learn AJAX by Building a View Counter
-Lean Data Visualization by Building a Dashboard
-Learn SVG by Building a Solar System
-Learn D3 by Building a Map of Earth
+Learn Data Visualization \
+Learn CSV by Building a Mailing List \
+Learn JSON by Building a Sports League \
+Learn XML by Building an RSS Feed \
+Learn AJAX by Building a View Counter \
+Lean Data Visualization by Building a Dashboard \
+Learn SVG by Building a Solar System \
+Learn D3 by Building a Map of Earth \
 
 
 **Required Project: Visualize Data with a Bar Chart**
-
 **Required Project: Visualize Data with a Scatterplot Graph**
-
 **Required Project: Visualize Data with a Heat Map**
-
 **Required Project: Visualize Data with a Choropleth Map**
-
 **Required Project: Visualize Data with a Treemap Diagram**
 
 Learn APIs and Microservices \
@@ -193,16 +158,16 @@ Required Project: Stock Price Checker \
 Required Project: Anonymous Message Board \
 
 # How You Can Help Us Build This
-We’ve already started designing these projects.   For example, here’s what we the “Learn Basic JavaScript by Building a Role Playing Game” project looks like:
+We’ve already started designing these projects.  \
+For example, here’s what we the “Learn Basic JavaScript by Building a Role Playing Game” project looks like:
 
-
-Here’s @beaucarnes’s CodePen implementation if you’re curious: https://codepen.io/beaucarnes/pen/BbLWpe 51
+Here’s @beaucarnes’s CodePen implementation if you’re curious: https://codepen.io/beaucarnes/pen/BbLWpe 
 
 People will learn JavaScript by building up this game one test at a time.
 
 Here’s what the tests for the “Learn HTML by Building a Cat Photo App” currently look like:
 
-github.com/freeCodeCamp/freeCodeCamp 4
+github.com/freeCodeCamp/freeCodeCamp 
  beaucarnes
  
 feat: Updated HTML curriculum - draft
@@ -226,8 +191,8 @@ and we are optimistic that together, we can build these projects even more quick
 # If you’re serious about contributing, here’s what I recommend you do:
 
 Leave a comment below, introducing yourself and sharing your thoughts on all this
-Join the freeCodeCamp Contributor Chatroom if you haven’t already: https://gitter.im/freecodecamp/contributors 30
+Join the freeCodeCamp Contributor Chatroom if you haven’t already: https://gitter.im/freecodecamp/contributors 
 
-Comment on the GitHub issues of the projects you are interested in helping with. Even the most general of ideas or prototypes will help us kick off this process. The issues for these are all located on our Curriculum Expansion repository: https://github.com/freeCodeCamp/CurriculumExpansion/issues 36
+Comment on the GitHub issues of the projects you are interested in helping with. Even the most general of ideas or prototypes will help us kick off this process. The issues for these are all located on our Curriculum Expansion repository: https://github.com/freeCodeCamp/CurriculumExpansion/issues 
 
 With your help, the millions of people who are learning to code through freeCodeCamp will have an even better resource to help them learn these fundamentals, and gain the confidence to build more ambitious projects.
