@@ -52,7 +52,7 @@ The main design challenge is taking what is currently paragraphs of explanation 
 
 Old test description text: Your h1 element should have the text “Hello World”.
 
-New test description text: HTML elements have opening tags like (<h1> and closing tags like </h1>). \
+New test description text: HTML elements have opening tags like "<h1> and closing tags like </h1>." \
 Find the h1 element and change the text between its opening and closing tags to say “Hello World”.
 
 Each project will involve dozens of tests like this. People will be coding the entire time, rather than switching back and forth from “reading mode” to “coding mode”.
@@ -125,7 +125,7 @@ Learn XML by Building an RSS Feed \
 Learn AJAX by Building a View Counter \
 Lean Data Visualization by Building a Dashboard \
 Learn SVG by Building a Solar System \
-Learn D3 by Building a Map of Earth \
+Learn D3 by Building a Map of Earth 
 
 
 **Required Project: Visualize Data with a Bar Chart**
@@ -155,7 +155,7 @@ Required Project: Metric-Imperial Converter \
 Required Project: Issue Tracker \
 Required Project: Personal Library \
 Required Project: Stock Price Checker \
-Required Project: Anonymous Message Board \
+Required Project: Anonymous Message Board 
 
 # How You Can Help Us Build This
 We’ve already started designing these projects.  \
@@ -186,7 +186,7 @@ and we are optimistic that together, we can build these projects even more quick
 2. Taking these projects and working backward, disassembling them into a series of dozens (hundreds?) of concise test descriptions
 3. Once we have the test descriptions, we need to implement the tests themselves
 
-***I’ve created a GitHub Project we can all use to track the overall progress of Version 7.0 of the curriculum here: https://github.com/orgs/freeCodeCamp/projects/10 77***
+***I’ve created a GitHub Project we can all use to track the overall progress of Version 7.0 of the curriculum here: https://github.com/orgs/freeCodeCamp/projects/10 ***
 
 # If you’re serious about contributing, here’s what I recommend you do:
 
