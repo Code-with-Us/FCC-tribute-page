@@ -10,7 +10,7 @@ Here is all the information for the new site
 ## Help us build Version 7.0 of the freeCodeCamp curriculum Contributors
 
  
-# QuincyLarson
+# Quincy Larson
 
 **Hey freeCodeCamp contributors** - soon the freeCodeCamp curriculum will be 100% project-driven learning. Instead of a series of coding challenges, you’ll learn through building projects - step by step.
 
